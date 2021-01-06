@@ -9,3 +9,8 @@
 
 ## HTML Básico - Diferentes Níveis de Títulos
 * Pasta: 3-titulos_html
+
+## HTML Básico - Como Declarar Parágrafos
+* Pasta: 4-paragrafos_html
+
+## HTML Básico - 
