@@ -13,4 +13,93 @@
 ## HTML Básico - Como Declarar Parágrafos
 * Pasta: 4-paragrafos_html
 
-## HTML Básico - 
+## HTML Básico - Como Ter Texto de Exemplo Rápido
+* Pasta: 5-texto_modelo
+
+## HTML Básico - Como Colocar no Comentários HTML
+* Pasta: 6-comentario_html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
