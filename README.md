@@ -22,7 +22,8 @@
 ## HTML Básico - Como REMOVER Comentários HTML
 * Pasta: [7-descomentar_html](/7-descomentar_html)
 
-
+## HTML Básico - Como DELETAR partes do documento HTML
+* Pasta: [8-deletar_html](/8-deletar_html)
 
 
 
