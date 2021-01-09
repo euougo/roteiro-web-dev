@@ -25,7 +25,8 @@
 ## HTML Básico - Como DELETAR partes do documento HTML
 * Pasta: [8-deletar_html](/8-deletar_html)
 
-
+## HTML Básico - Introdução aos ELEMENTOS do HTML5
+* Pasta: [9-intro_html5](/9-intro_html5)
 
 
 
