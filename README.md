@@ -28,6 +28,8 @@
 ## HTML Básico - Introdução aos ELEMENTOS do HTML5
 * Pasta: [9-intro_html5](/9-intro_html5)
 
+# HTML Básico - Inserir IMAGEM no HTML
+* Pasta: [10-img_html](/10-img_html)
 
 
 
