@@ -43,7 +43,8 @@
 ## HTML Básico - Como CRIAR um LINK MORTO no HTML
 * Pasta: [014-link_morto_html](/014-link_morto_html)
 
-
+## HTML Básico - Como CRIAR um LINK com IMAGEM no HTML
+* Pasta: [015-link_imagem_html](/015-link_imagem_html)
 
 
 
