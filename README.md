@@ -46,7 +46,8 @@
 ## HTML Básico - Como CRIAR um LINK com IMAGEM no HTML
 * Pasta: [015-link_imagem_html](/015-link_imagem_html)
 
-
+## HTML Básico - Como CRIAR uma LISTA com BULLET POINTS (Não ORDENADA) no HTML
+* Pasta: [016-lista_bullet_html](/016-lista_bullet_html)
 
 
 
