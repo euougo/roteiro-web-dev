@@ -49,7 +49,8 @@
 ## HTML Básico - Como CRIAR uma LISTA com BULLET POINTS (Não ORDENADA) no HTML
 * Pasta: [016-lista_bullet_html](/016-lista_bullet_html)
 
-
+## HTML Básico - Como CRIAR uma LISTA NUMERADA (ORDENADA) no HTML
+* Pasta: [017-lista_ordenada_html](/017-lista_ordenada_html)
 
 
 
