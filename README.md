@@ -52,7 +52,8 @@
 ## HTML Básico - Como CRIAR uma LISTA NUMERADA (ORDENADA) no HTML
 * Pasta: [017-lista_ordenada_html](/017-lista_ordenada_html)
 
-
+## HTML Básico - Como CRIAR uma ENTRADA de TEXTO (TEXT INPUT) no HTML
+* Pasta: [018-text_input_html](/018-text_input_html)
 
 
 
