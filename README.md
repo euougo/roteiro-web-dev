@@ -55,6 +55,8 @@
 ## HTML Básico - Como CRIAR uma ENTRADA de TEXTO (TEXT INPUT) no HTML
 * Pasta: [018-text_input_html](/018-text_input_html)
 
+## HTML Básico - Como CRIAR um Label para INPUT no HTML
+* Pasta: [019-label_para_input](/019-label_para_input)
 
 
 
