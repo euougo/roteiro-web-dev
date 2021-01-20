@@ -61,7 +61,8 @@
 ## HTML Básico - Como CRIAR um FORMULÁRIO no HTML
 * Pasta: [020-form_html](/020-form_html)
 
-
+## HTML Básico - Como CRIAR um DATALIST no HTML
+* Pasta: [021-datalist_input_html](/021-datalist_input_html)
 
 
 
