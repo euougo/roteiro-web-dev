@@ -64,6 +64,9 @@
 ## HTML Básico - Como CRIAR um DATALIST no HTML
 * Pasta: [021-datalist_input_html](/021-datalist_input_html)
 
+## HTML Básico - Como CRIAR um INPUT DATE no HTML
+* Pasta: [022-date_input_html](/022-date_input_html)
+
 
 
 
