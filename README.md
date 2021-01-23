@@ -70,6 +70,9 @@
 ## HTML Básico - Como CRIAR um SUBMIT BUTTON no HTML
 * Pasta: [023-submit_btn_html](/023-submit_btn_html)
 
+## HTML Básico - Como CRIAR um INPUT COLOR no HTML
+* Pasta: [024-input_color_html](/024-input_color_html)
+
 
 
 
