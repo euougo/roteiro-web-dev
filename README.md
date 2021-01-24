@@ -73,6 +73,9 @@
 ## HTML Básico - Como CRIAR um INPUT COLOR no HTML
 * Pasta: [024-input_color_html](/024-input_color_html)
 
+## HTML Básico - Como CRIAR um INPUT CHECKBOX no HTML
+* Pasta: [025-input_checkbox_html](/025-input_checkbox_html)
+
 
 
 
