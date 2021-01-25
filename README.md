@@ -76,6 +76,8 @@
 ## HTML Básico - Como CRIAR um INPUT CHECKBOX no HTML
 * Pasta: [025-input_checkbox_html](/025-input_checkbox_html)
 
+## HTML Básico - Como USAR o ATRIBUTO REQUIRED no HTML
+* Pasta: [026-required_html](/026-required_html)
 
 
 
