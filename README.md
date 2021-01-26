@@ -79,6 +79,9 @@
 ## HTML Básico - Como USAR o ATRIBUTO REQUIRED no HTML
 * Pasta: [026-required_html](/026-required_html)
 
+## HTML Básico - Como CRIAR um Radio INPUT no HTML
+* Pasta: [027-input_radio_html](/027-input_radio_html)
+
 
 
 
