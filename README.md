@@ -82,6 +82,9 @@
 ## HTML Básico - Como CRIAR um Radio INPUT no HTML
 * Pasta: [027-input_radio_html](/027-input_radio_html)
 
+## HTML Básico - O que é o Atributo VALUE no INPUT no HTML
+* Pasta: [028-value_html](/028-value_html)
+
 
 
 
