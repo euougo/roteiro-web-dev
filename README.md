@@ -85,6 +85,9 @@
 ## HTML Básico - O que é o Atributo VALUE no INPUT no HTML
 * Pasta: [028-value_html](/028-value_html)
 
+## HTML Básico - O que é o Atributo CHECKED no INPUT no HTML
+* Pasta: [029-checked_html](/029-checked_html)
+
 
 
 
